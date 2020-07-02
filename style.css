@@ -30,7 +30,9 @@ nav a {
 #details {
   display: block;
 }
-div
+section div {
+  float: left;
+}
 
 
 
