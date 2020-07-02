@@ -10,7 +10,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 65%;
 }
 figcaption {
   text-align: center;
@@ -19,5 +19,5 @@ p {
   text-align: center;
   margin-right: auto;
   margin-left: auto;
-  width: 40%;
+  width: 55%;
 }
