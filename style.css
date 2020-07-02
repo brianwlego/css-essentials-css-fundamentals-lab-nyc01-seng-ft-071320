@@ -21,3 +21,8 @@ p {
   margin-left: auto;
   width: 55%;
 }
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
